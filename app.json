@@ -68,7 +68,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://www.google.com/imgres?imgurl=http%3A%2F%2Fcommentphotos.com%2Fimages%2Fopengraph%2FCommentPhotos.com_1418158053.jpg&imgrefurl=http%3A%2F%2Fcommentphotos.com%2Fcomments%2Fmalayalam%2Fonju_poda_maramakri_-_angry_boy_774.php&tbnid=tBn1JQNtIYpi2M&vet=12ahUKEwjNmsvIid_6AhWyUXwKHVRaCAEQMygAegUIARDYAQ..i&docid=tMlO8Pqarkav5M&w=962&h=630&q=onnu%20poda&ved=2ahUKEwjNmsvIid_6AhWyUXwKHVRaCAEQMygAegUIARDYAQ",
+        "value": "https://github.com/alph4d0n/samuraiBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
